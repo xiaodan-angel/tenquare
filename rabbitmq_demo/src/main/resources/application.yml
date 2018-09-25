@@ -1,0 +1,5 @@
+server:
+  port: 9003
+spring:
+  rabbitmq:
+    host: 192.168.12.130

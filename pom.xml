@@ -15,6 +15,10 @@
         <module>tensquare_recruit</module>
         <module>tensquare_gathering</module>
         <module>tensquare_spit</module>
+        <module>tensquare_search</module>
+        <module>rabbitmq_demo</module>
+        <module>tensquare_user</module>
+        <module>tensquare_sms</module>
 
     </modules>
     <packaging>pom</packaging>
